@@ -1,0 +1,8 @@
+{
+	"name": "BlackStone on Heroku",
+	"description": "Deploy BlakStone on Heroku by _TuXeD_",
+	"repository": "https://github.com/aitorroma/BlackStone",
+	"logo": "https://raw.githubusercontent.com/aitorroma/BlackStone/main/BlackStone/assets/images/faces/proyect_logo.png",
+	"keywords": ["drupal", "heroku", "php", "mysql", "pentesting", "apache2", "security"],
+	"addons": ["cleardb:ignite","newrelic:wayne","sendgrid:starter"]
+}
